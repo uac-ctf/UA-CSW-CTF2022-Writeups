@@ -104,5 +104,6 @@ CTFUA{pHp_uns3r1aliZe_k1ng}
 
 ### Some good resources if you want to learn more
 
-https://medium.com/swlh/exploiting-php-deserialization-56d71f03282a
-https://book.hacktricks.xyz/pentesting-web/deserialization
+<https://medium.com/swlh/exploiting-php-deserialization-56d71f03282a>
+
+<https://book.hacktricks.xyz/pentesting-web/deserialization>
